@@ -1,4 +1,4 @@
-# Python Testing Practice
+# Python Testing Project
 # Demonstrates basic Python concepts used in QA and test automation
 
 
